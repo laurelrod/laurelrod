@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @laurelrod
+- 👀 I’m interested in full stack development.
+- 🌱 I’m currently learning java script.
